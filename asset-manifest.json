@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Tailwind_css_Setup_project/static/css/main.faa0d668.css",
+    "main.js": "/Tailwind_css_Setup_project/static/js/main.a2fc552f.js",
+    "static/media/graduates.png": "/Tailwind_css_Setup_project/static/media/graduates.b49b9bca9420448fc546.png",
+    "static/media/cv (1).png": "/Tailwind_css_Setup_project/static/media/cv (1).03d483e84b4ba14ded30.png",
+    "static/media/reading.png": "/Tailwind_css_Setup_project/static/media/reading.23fb97f20b4eac24f350.png",
+    "static/media/abilities.png": "/Tailwind_css_Setup_project/static/media/abilities.ab02d13f29d902acb10c.png",
+    "static/media/requirements.png": "/Tailwind_css_Setup_project/static/media/requirements.105e74ba922c1157abf0.png",
+    "static/media/medal.png": "/Tailwind_css_Setup_project/static/media/medal.b4da14b585c28396ba35.png",
+    "static/media/credit.png": "/Tailwind_css_Setup_project/static/media/credit.aaac3d8f37d85f72bace.png",
+    "index.html": "/Tailwind_css_Setup_project/index.html",
+    "main.faa0d668.css.map": "/Tailwind_css_Setup_project/static/css/main.faa0d668.css.map",
+    "main.a2fc552f.js.map": "/Tailwind_css_Setup_project/static/js/main.a2fc552f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faa0d668.css",
+    "static/js/main.a2fc552f.js"
+  ]
+}
